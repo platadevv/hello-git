@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-print("Hola git 3 v100")
-=======
-print("Hola git 3 v100")
+print("Esta es la version 100")
